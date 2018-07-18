@@ -1,0 +1,6 @@
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\DomainSample\bin\Debug\DomainSample.exe.config
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\DomainSample\bin\Debug\DomainSample.exe
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\DomainSample\bin\Debug\DomainSample.pdb
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\DomainSample\obj\Debug\DomainSample.csprojResolveAssemblyReference.cache
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\DomainSample\obj\Debug\DomainSample.exe
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\DomainSample\obj\Debug\DomainSample.pdb

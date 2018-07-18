@@ -1,0 +1,5 @@
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\Infrustructure\bin\Debug\Infrustructure.dll
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\Infrustructure\bin\Debug\Infrustructure.pdb
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\Infrustructure\obj\Debug\Infrustructure.csprojResolveAssemblyReference.cache
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\Infrustructure\obj\Debug\Infrustructure.dll
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\Infrustructure\obj\Debug\Infrustructure.pdb

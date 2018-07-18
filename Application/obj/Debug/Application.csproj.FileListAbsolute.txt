@@ -1,0 +1,5 @@
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\Application\bin\Debug\Application.dll
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\Application\bin\Debug\Application.pdb
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\Application\obj\Debug\Application.dll
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\Application\obj\Debug\Application.pdb

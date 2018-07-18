@@ -1,0 +1,5 @@
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\DtoModel\bin\Debug\DtoModel.dll
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\DtoModel\bin\Debug\DtoModel.pdb
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\DtoModel\obj\Debug\DtoModel.csprojResolveAssemblyReference.cache
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\DtoModel\obj\Debug\DtoModel.dll
+F:\Work\Project\Practise\.Net\DomainSample\DomainSample\DtoModel\obj\Debug\DtoModel.pdb
